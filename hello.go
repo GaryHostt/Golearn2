@@ -99,3 +99,7 @@ func Subtract(num1, num2 int) int {
 func Multiply(num1, num2 float64) float64 {
         return num1 * num2
 }
+
+func Divide(num1, num2 float64) float64 {
+        return num1 / num2
+}
